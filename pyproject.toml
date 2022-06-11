@@ -10,6 +10,7 @@ python = "^3.7"
 ipykernel = "^6.13.1"
 jupyterlab = "^3.4.3"
 ginza = "^5.1.1"
+ja-ginza = "^5.1.0"
 
 [tool.poetry.dev-dependencies]
 
